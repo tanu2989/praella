@@ -259,9 +259,11 @@ a:hover {
 
 header {
   background-color: #ffffff;
+  transition: all 0.3s ease;
 }
 header.fixed-top {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.0784313725);
+  transition: all 0.3s ease;
 }
 header .top_header {
   padding: 0.65rem 1rem;

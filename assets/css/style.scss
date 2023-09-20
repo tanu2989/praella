@@ -302,8 +302,10 @@ a {
 // ----------------- header start -----------------
 header {
     background-color: $white;
+    transition: all .3s ease;
     &.fixed-top {
         box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.0784313725);
+        transition: all .3s ease;
     }
     .top_header {
         padding: 0.65rem 1rem;
@@ -359,6 +361,7 @@ header {
 }
 // ----------------- header end -----------------
 
+// home banner start
 .home_banner {
     background-image: url(../images/home/banner.webp);
     background-size: cover;
@@ -432,6 +435,7 @@ header {
     }
 }
 
+// best seller start
 .best_seller {
     padding: 4.688rem 0 1rem;
     .heading_ {
@@ -545,6 +549,7 @@ header {
     }
 }
 
+// real life start
 .real_life {
     background-color: $skyblue-light-medium;
     padding: 6rem 0 5rem 0;
@@ -585,6 +590,7 @@ header {
     }
 }
 
+// ultimate brew start
 .ultimate_brew {
     padding: 8rem 0 6rem 0;
     h3 {
@@ -713,5 +719,5 @@ footer {
 // ----------------- footer end -----------------
 
 // ***************** --------------- *****************
-// ----------------- Home page end -----------------
+// ------------------ Home page end ------------------
 // ***************** --------------- *****************

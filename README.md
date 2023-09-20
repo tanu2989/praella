@@ -9,6 +9,7 @@ Clip path poperties
 Z-index properties
 Hover animations
 Inifinite animations
+Parallax scroll animations
 
 ## Getting Started
 Getting started with this project is a breeze. You can use it directly in your web browser or easily customize it using popular code editors such as Visual Studio Code, Sublime Text, or any other of your choice. Whether you're a beginner or an experienced developer, you'll find this project simple to work with. Let's dive in and get started!
